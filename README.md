@@ -1,7 +1,9 @@
 ## Hi there 
-Pythonで自分のスキル表を可視化してみました。
-- Python 70% は、調べれば普通に実装できる。
-- Django 65%　は、まだ、構造で迷うことがある。
-- Bot 75%　は、テンプレなら一人で作れる。
-- Automation 75% は、自動化ツールを作れる。
+現在の取り組み：
+- Python：調べながら実装、API連携、自動化ツール開発
+- Django：CRUDアプリ開発、Webアプリ構築
+- Discord Bot：AI API連携Bot開発
+- Automation：業務効率化ツール開発
+
+まだ実務経験はありませんが、実際に手を動かしながら学習を続けています。
 <img width="2400" height="1500" alt="skill_table" src="https://github.com/user-attachments/assets/f5227c97-8efa-439e-aaa0-640413cc3338" />
