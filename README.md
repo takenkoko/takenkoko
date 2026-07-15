@@ -1,4 +1,8 @@
 ## Hi there 
+
+私が好きな言葉：Code. Learn. Repeat.（CLR） ♻️
+コードを書く、学ぶ、繰り返す。
+
 現在の取り組み：
 - Python：調べながら実装、API連携、自動化ツール開発
 - Django：CRUDアプリ開発、Webアプリ構築
