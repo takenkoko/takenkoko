@@ -1,6 +1,6 @@
 ## Hi there 
 
-私が好きな言葉：Code. Learn. Repeat.（CLR） ♻️
+私が好きな言葉：☕（CLR） = Code. Learn. Repeat♻️.
 コードを書く、学ぶ、繰り返す。
 
 現在の取り組み：
