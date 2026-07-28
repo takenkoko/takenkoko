@@ -4,6 +4,7 @@
 コードを書く、学ぶ、繰り返す。
 
 現在の取り組み：
+- Java:を学び始めました。Javaで天気予報アプリを開発する予定
 - Python：調べながら実装、API連携、自動化ツール開発
 - Django：CRUDアプリ開発、Webアプリ構築
 - Discord Bot：AI API連携Bot開発
