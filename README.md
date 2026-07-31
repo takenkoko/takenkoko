@@ -4,11 +4,23 @@
 コードを書く、学ぶ、繰り返す。
 
 現在の取り組み：
-- Java:を学び始めました。Javaで天気予報アプリを開発する予定
-- Python：調べながら実装、API連携、自動化ツール開発
-- Django：CRUDアプリ開発、Webアプリ構築
-- Discord Bot：AI API連携Bot開発
-- Automation：業務効率化ツール開発
+Python
+・API連携
+・自動化
+・データ処理
+
+Django
+・CRUD
+・認証
+・Webアプリ開発
+
+AI
+・Gemini API
+・Discord Bot
+
+Automation
+・業務効率化
+・Google Sheets API
 
 まだ実務経験はありませんが、実際に手を動かしながら学習を続けています。
 <img width="2400" height="1500" alt="skill_table" src="https://github.com/user-attachments/assets/f5227c97-8efa-439e-aaa0-640413cc3338" />
