@@ -23,5 +23,6 @@ Automation
 ・業務効率化
 ・Google Sheets API
 
+Javaで自作天気予報アプリ開発予定
+
 まだ実務経験はありませんが、実際に手を動かしながら学習を続けています。
-<img width="2400" height="1500" alt="skill_table" src="https://github.com/user-attachments/assets/f5227c97-8efa-439e-aaa0-640413cc3338" />
