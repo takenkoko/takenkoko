@@ -1,16 +1,12 @@
 ## Hi there 
 
 こんにちは、たけのここです。
-昔からものづくりに興味があり、これまでの歩みは少し変わった道のりです。
-美術とプログラミング、両方を学んだのち、あらためてソフトウェア開発の道に戻ってきました
 
-### これまでの歩み
-- 大阪美術専門学校
-- 大阪芸術大学（中退）
-- 画家として創作活動（約10年）収益はありませんでしたが、創作活動継続していました。
-- 独学でPythonを学び、ソフトウェア開発の道へ
-  
-まだ実務経験はありませんが、実際に手を動かしながら学習を続けています。
+まだ実務経験はありませんが、実際に手を動かしながら学習を続けています。開発しながら思った言葉があります。私はこの言葉が好きです。
+
+成長だけを求めているわけではない。
+
+努力が実を結ぶ、その瞬間を求めている。
 
 ## 現在の取り組み：
 
@@ -26,11 +22,22 @@
 
 ### Java 天気予報アプリ
 - Javaを使用したアプリ開発を予定しています。
+
+  
 ## About Me (English)
 
-Hi I'm Takenkoko.
-I have an unusual background — I studied art, spent about 10 years working as a painter, then taught myself Python and made the switch to software development.
-I don't have professional experience yet, but I'm learning by building real projects.
+
+Hello, I'm Takenokoko.
+
+I don't have professional development experience yet, but I continue learning by building things and gaining hands-on experience through actual projects.
+
+While developing, I came across a phrase that deeply resonates with me:
+
+I don't seek growth alone.
+
+I seek the moment when my efforts finally bear fruit.
+
+This is the mindset I want to carry forward — not just to grow, but to keep nurturing my efforts until they become something meaningful.
 
 **Currently working on:**
 - 📝 Memo app with Django (planning to expand it into a programming-learning tool)
